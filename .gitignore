@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Virtualenv
+venv/
+.venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build output (exe too large for git, use GitHub Releases)
+dist/
+build/
+*.spec
+
+# OS
+Thumbs.db
+.DS_Store
