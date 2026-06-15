@@ -4,7 +4,7 @@
 
 ## 🚀 在线体验
 
-👉 **[点此打开 App](https://bazi-app.streamlit.app)**
+👉 **[点此打开 App](https://bazi-app-dvthzgrfadecsmsrw62tmz.streamlit.app/)**
 
 ---
 
